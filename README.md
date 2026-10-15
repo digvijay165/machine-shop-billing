@@ -16,6 +16,8 @@ Invoices, business settings, and saved items are stored in the browser on the de
 
 Email and WhatsApp actions open a pre-filled message. To send the complete bill, print or save it as a PDF and attach it to the message.
 
-## GitHub Pages
+## Live site
 
-This is a static site. Enable GitHub Pages from the repository’s `main` branch and root folder to publish `index.html`.
+The site is published with GitHub Pages from the `main` branch:
+
+https://digvijay165.github.io/machine-shop-billing/
